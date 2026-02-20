@@ -1,0 +1,16 @@
+* text=auto
+
+*.json text eol=lf
+*.md text eol=lf diff=markdown
+*.php text eol=lf diff=php
+*.xml text eol=lf
+
+*.neon.dist linguist-language=neon
+
+/.editorconfig export-ignore
+/.gitattributes export-ignore
+/.github export-ignore
+/.gitignore export-ignore
+/.php-cs-fixer.dist.php export-ignore
+/CHANGELOG.md export-ignore
+/phpstan.neon.dist export-ignore
