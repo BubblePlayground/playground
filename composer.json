@@ -1,4 +1,7 @@
 {
+    "name": "bubbleplayground/playground",
+    "description": "",
+    "license": "MIT",
     "require": {
         "php": "^8.0"
     },
