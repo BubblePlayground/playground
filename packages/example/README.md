@@ -4,7 +4,6 @@ A service container for the [BubblePlay](https://github.com/BubblePlayground/pla
 
 > [!IMPORTANT]
 > **This is a read-only subtree split from the [main BubblePlay repository](https://github.com/BubblePlayground/playground).**
-> 
 > Please direct all issues, pull requests, and contributions there.
 
 ## Resources
