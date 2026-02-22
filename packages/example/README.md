@@ -8,6 +8,5 @@ A service container for the [BubblePlay](https://github.com/BubblePlayground/pla
 
 ## Resources
 
-[Contributing](https://github.com/BubblePlayground/playground?tab=contributing-ov-file)
-
+[Contributing](https://github.com/BubblePlayground/playground?tab=contributing-ov-file)<br>
 [GitHub Discussions](https://github.com/BubblePlayground/playground/discussions)
