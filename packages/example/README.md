@@ -3,7 +3,7 @@
 A service container for the [BubblePlay](https://github.com/BubblePlayground/playground) framework.
 
 > [!IMPORTANT]
-> **This is a read-only subtree split from the [main BubblePlay repository](https://github.com/BubblePlayground/playground).**
+> **This is a read-only subtree split from the [main BubblePlay repository](https://github.com/BubblePlayground/playground).**<br>
 > Please direct all issues, pull requests, and contributions there.
 
 ## Resources
